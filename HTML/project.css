@@ -1,0 +1,50 @@
+body { 
+    background-color:rgb(224, 179, 179);
+}
+h1 {
+    color: #491a0a;
+    font-family: 'Times New Roman', Times, serif;
+	text-align: center;
+}
+h2 { 
+    color: rgb(75, 56, 143);
+}
+.BABY { 
+    color: rgb(24, 7, 134);
+}
+#CHAYMA {
+    border: 5px dashed rgb(75, 56, 143);
+}
+#COUCOU {
+    font-weight: 400;
+    background-color: #3c3636;
+    color: #e9e4e4;
+    padding: .5em;
+}
+table {
+    position: absolute;
+    left: 300px;
+    top: 1300;
+}
+.HI {
+
+        height: 50;
+        width: 10;
+
+}
+div{
+    display: block;
+    }
+         .MY p {
+      height: 200px;
+      width: 200px;
+      background: rgb(138, 115, 146);
+      color: white;
+    }
+.flexy { 
+   display: grid;
+
+}
+
+
+
